@@ -1,0 +1,87 @@
+body{
+margin:0;
+font-family:-apple-system,BlinkMacSystemFont,sans-serif;
+background:black;
+color:white;
+text-align:center;
+overflow-x:hidden;
+}
+
+.hidden{display:none;}
+
+#intro{
+height:100vh;
+display:flex;
+flex-direction:column;
+justify-content:center;
+align-items:center;
+background:black;
+}
+
+.fadeOut{animation:fadeOut 2s forwards;}
+@keyframes fadeOut{to{opacity:0;visibility:hidden;}}
+
+#main{
+background:#ff6f91;
+min-height:100vh;
+padding:20px;
+overflow-y:auto; /* ✅ allow scrolling */
+}
+
+/* AUTOMATIC SLIDING CAROUSEL */
+.carousel-container{
+position:relative;
+width:100%;
+max-width:300px; /* responsive width */
+height:380px;
+margin:auto;
+overflow:hidden;
+border-radius:18px;
+}
+
+.carousel-track{
+display:flex;
+transition:transform 1s ease;
+}
+
+.carousel-track img{
+width:100%;
+height:100%;
+object-fit:cover;
+border-radius:18px;
+}
+
+/* LETTER */
+.letter{
+background:rgba(255,255,255,0.2);
+padding:20px;
+border-radius:18px;
+margin-top:20px;
+text-align:left;
+line-height:1.8;
+font-size:16px;
+white-space:pre-line;
+}
+
+/* BUTTON */
+button{
+padding:14px;
+border:none;
+border-radius:12px;
+background:white;
+color:#ff4d6d;
+font-size:16px;
+margin-top:10px;
+}
+
+/* FALLING HEARTS */
+.heart{
+position:fixed;
+top:-10px;
+font-size:20px;
+animation:fall linear forwards;
+}
+
+@keyframes fall{
+to{transform:translateY(110vh);opacity:0;}
+}
