@@ -56,7 +56,7 @@ Gusto ko lang sabihin na pinapahalagahan ko lahat ng effort mo, lahat ng simplen
 Hindi ko alintana ang distansya, kasi alam ko, kahit anong layo, tayo ay magkasama sa puso at pangarap. 
 
 Promise ko, darating din ang araw na palagi na tayong magkasama. 
-Thankkkk youuuu sooo soooo muchhhhh sa pag intinsi sakin palagi at pag titiis sa kakulitan ko.
+Thankkkk youuuu sooo soooo muchhhhh sa pag intindi sakin palagi at pag titiis sa kakulitan ko.
 Hanggang dulo, pipiliin kita araw araw. Pipiliin kita sa bawat tawag, bawat chats, bawat alaala natin. 
 
 Mahallll na mahallll kitaaaa, at salamat sa pagiging ikaw. 
